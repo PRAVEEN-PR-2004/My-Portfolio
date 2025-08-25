@@ -92,8 +92,12 @@ const ResumeData = {
         level: "80%",
       },
       {
-        name: "GoLang",
-        level: "20%",
+        name: "HTML5",
+        level: "80%",
+      },
+      {
+        name: "CSS",
+        level: "80%",
       },
       {
         name: "React",
