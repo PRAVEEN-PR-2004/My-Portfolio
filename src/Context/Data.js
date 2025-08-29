@@ -9,15 +9,15 @@ const ResumeData = {
       "Let's connect and explore the boundless possibilities that the world of Computer Science has to offer!",
     email: "praveen2004ttp@gmail.com",
     phone: "+91-9597412160",
-    github: "https://github.com/Rahulnisanth/",
-    leetcode: "https://leetcode.com/rahulnisanth",
+    github: "https://github.com/PRAVEEN-PR-2004/",
+    leetcode: "https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/",
     address: {
       street: "Aspiring Software Engineer",
       city: "Coimbatore",
       state: "Tamilnadu",
       zip: "641062",
     },
-    website: "http://linktr.ee/Rahulnisanth",
+    
     social: [
       // {
       //   name: "codolio",
