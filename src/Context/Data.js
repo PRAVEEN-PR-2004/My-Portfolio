@@ -10,7 +10,7 @@ const ResumeData = {
     email: "praveen2004ttp@gmail.com",
     phone: "+91-9597412160",
     github: "https://github.com/PRAVEEN-PR-2004/",
-    leetcode: "https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/",
+    leetcode: "https://leetcode.com/u/praveen2004ttp/",
     address: {
       street: "Aspiring Software Engineer",
       city: "Coimbatore",
