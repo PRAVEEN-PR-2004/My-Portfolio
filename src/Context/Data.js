@@ -89,7 +89,7 @@ const ResumeData = {
     skills: [
       {
         name: "JAVA",
-        level: "80%",
+        level: "85%",
       },
       {
         name: "HTML5",
@@ -101,7 +101,7 @@ const ResumeData = {
       },
       {
         name: "React",
-        level: "70%",
+        level: "80%",
       },
       {
         name: "NextJs",
@@ -127,6 +127,10 @@ const ResumeData = {
         name: "MongoDB",
         level: "65%",
       },
+      {
+        name: "Git",
+        level: "65%",
+      },
     ],
   },
   portfolio: {
@@ -144,7 +148,7 @@ const ResumeData = {
         title: "ACADEMIC PLANNER",
         category:
           "An AI-powered academic planner with custom timetables, plan management, and a dashboard for tracking progress.",
-        tags: ["MongoDb", "Express", "React", "Node", "Groq API"],
+        tags: ["MongoDb", "Express", "React", "Node", "Groq API","JWT"],
         image: "02.png",
         url: "https://studyacademicplanner.netlify.app/",
         session: "completed",
@@ -159,12 +163,12 @@ const ResumeData = {
         session: "ONGOING",
       },
       {
-        title: "QUIZZ APP",
+        title: "Secure Voting System",
         category:
-          "An interactive Quiz App with dynamic questions, instant scoring, and a user-friendly interface.",
-        tags: ["MongoDb", "Express", "React", "Node"],
-        image: "06.png",
-        url: "https://learneng-quiz.netlify.app/",
+          "An interactive Secure Voting System with encrypted ballots, real-time vote validation, and a tamper-proof, user-friendly interface.",
+        tags: ["MongoDb", "Express", "React", "Node", "JWT"],
+        image: "10.png",
+        url: "https://github.com/PRAVEEN-PR-2004/voting_system_",
         session: "completed",
       },
       {
@@ -174,6 +178,15 @@ const ResumeData = {
         tags: ["JAVAProgramming", "consoleProjects", "MySQL"],
         image: "05.png",
         url: "https://github.com/PRAVEEN-PR-2004/TourBooking",
+        session: "completed",
+      },
+      {
+        title: "QUIZZ APP",
+        category:
+          "An interactive Quiz App with dynamic questions, instant scoring, and a user-friendly interface.",
+        tags: ["MongoDb", "Express", "React", "Node"],
+        image: "06.png",
+        url: "https://learneng-quiz.netlify.app/",
         session: "completed",
       },
       {
