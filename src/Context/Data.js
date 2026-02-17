@@ -77,15 +77,15 @@ const ResumeData = {
           "My primary education experience was a transformative period of intellectual growth, where I delved deep into my chosen field of study and explored new perspectives.",
       },
     ],
-    experience: [
-      {
-        company: "Adya.ai",
-        title: "Full Stack Developer - Internship",
-        years: "May 2025 - Jul 2025",
-        description:
-          "Worked on frontend and backend development for real-world web applications. Built responsive UIs, developed APIs, and collaborated in an Agile environment to deliver scalable, production-ready features.",
-      },
-    ],
+    // experience: [
+    //   {
+    //     company: "Adya.ai",
+    //     title: "Full Stack Developer - Internship",
+    //     years: "May 2025 - Jul 2025",
+    //     description:
+    //       "Worked on frontend and backend development for real-world web applications. Built responsive UIs, developed APIs, and collaborated in an Agile environment to deliver scalable, production-ready features.",
+    //   },
+    // ],
     skills: [
       {
         name: "JAVA",
