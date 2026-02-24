@@ -29,7 +29,7 @@ class Resume extends Component {
       );
     });
 
-    const experience = this.props.data.experience.map(function (experience) {
+    const experience = this.props.data.experience ? this.props.data.experience.map(function (experience) {
       return (
         <div key={experience.company}>
           <h3>{experience.company}</h3>
@@ -40,7 +40,7 @@ class Resume extends Component {
           <p>{experience.description}</p>
         </div>
       );
-    });
+    }) : null;
 
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
