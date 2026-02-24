@@ -74,15 +74,15 @@ class Resume extends Component {
         </Slide>
 
         <Slide left duration={1300}>
-          <div className="row work">
-            <div className="three columns header-col">
-              <h1>
-                <span>Experience</span>
-              </h1>
-            </div>
+          {/* <div className="row work"> */}
+            {/* <div className="three columns header-col"> */}
+              {/* <h1> */}
+                {/* <span>Experience</span> */}
+              {/* </h1> */}
+            {/* </div> */}
 
-            <div className="nine columns main-col">{experience}</div>
-          </div>
+            {/* <div className="nine columns main-col">{experience}</div> */}
+          {/* </div> */}
         </Slide>
 
         <Slide right duration={1300}>
